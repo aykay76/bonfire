@@ -1,0 +1,9 @@
+Release/
+*.001
+*.clw
+*.aps
+*.ncb
+*.opt
+*.plg
+*.exe
+*.scc
